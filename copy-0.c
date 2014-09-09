@@ -6,9 +6,6 @@
 #include <string.h>
 #include <ctype.h>
 
-
-//missing 1 header file for toupper
-
 int main(void)
 {
     printf("Say something: ");
